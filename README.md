@@ -1,3 +1,2 @@
-# Hello-World-
-My first repository!
-这是我的第一个repository！哈哈哈希望以后可以一直在Github上学无止境orz。
+# Leetcode记录
+终日仰卧起坐之又一次开始leetcode
